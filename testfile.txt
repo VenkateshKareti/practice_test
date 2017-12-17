@@ -13,5 +13,5 @@ Third edit!!! by NON COPY
 THird mod by the COPY cat!!!
 
 
-
+Fourth modification by COPY... checking pull before commit on conflict.
 Fourth Experiment!...Checking of Pull after local modification and remote commit by others... (NON COPY)
